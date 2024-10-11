@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Carla Hugo Site'
+theme= "hyde"
+[params]
+description = 'Pues algo, no sé'
